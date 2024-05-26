@@ -1,0 +1,39 @@
+.about{
+    margin-top: 0;
+}
+.about-img{
+    margin-top: -170px;
+    width: 1512px;
+    height: 759px;
+    top: 1826px;
+    gap: 0px;
+    opacity: 50%;   
+    position: absolute; 
+}
+.message{
+    width: 1314px;
+    height:528px;
+    margin-top: 218px;
+    /* left: 108px; */
+    gap: 255px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 90px;
+    
+}
+p{
+    color: white;
+}
+.message1{
+    width: 4802px;
+    height: 296px;
+    font-size: 54px;
+    line-height:73.66px;
+    padding-top: 205px;
+}
+.message2{
+    width: 4802px;
+    height: 296px;
+    font-size: 24px;
+    padding-top: 105px;
+}

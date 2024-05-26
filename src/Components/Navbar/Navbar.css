@@ -1,0 +1,35 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    /* width: 1329px; */
+    margin-top: 18px;
+    margin-left: 87px;
+    margin-right: 87px;
+    /* gap: 504px; */
+}
+.navbar-logo-right{
+    /* width: 718px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 40px;
+    height: 48px;
+}
+.navbar-logo-right-p{
+    font-size: 22px;
+    font-weight: 600;
+    font-family: Nunito Sans;
+    line-height: 30px;
+    padding-top:9px;
+}
+#p-1{
+    color: #49B649;
+    font-weight: 700;
+}
+#p-6{
+    background: linear-gradient(90deg, #07DA07 0%, #0B430B 91.46%);
+    height: 30px;
+    padding:9px 25px 9px 25px;
+    border: 1px;
+    border-radius: 10px;
+}
