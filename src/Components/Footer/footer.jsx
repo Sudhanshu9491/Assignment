@@ -30,8 +30,8 @@ const footer = () => {
       <div className="footer-3">
         <p><span className="span">Contact Us</span></p>
         <p className="pp">Bangaluru,India</p>
-        <p className="pp">80030 10108</p>
-        <p className="pp">hr@curlistic.com</p>
+        <p className="pp">1234567891</p>
+        <p className="pp">abc@gmail.com</p>
       </div>
       <div className="footer-4">
         <p className="span" style={{color:"white",fontWeight:"800"}}>Subscribe <span className="span">NewsLetter</span></p>
